@@ -1,0 +1,52 @@
+
+body {
+
+    background: #d2d2c1 url("image/fundo.png");
+    font:16px Arial, Helvetica,sans-serif;
+}
+#principal{
+ width: 900px;
+
+
+}
+#menu{
+    background: #c5c5b2;
+    padding: 15px;
+}
+#menu a{
+    text-decoration: none;
+    margin-right: 30px;
+    font-weight: bold;
+ 
+}
+#menu a:hover{
+  background: #c5c;
+  border-radius: 10px;
+ 
+}
+
+h2{
+background: #c5c5b2;
+margin-left: 20px;
+
+
+}
+p{
+    margin-left: 10px;
+}
+div{
+    margin-bottom: 40px;
+}
+footer{
+ text-align: center;
+
+}
+.img_campanha{
+ border: 10px solid #c3c3ae
+
+}
+
+
+
+
+
